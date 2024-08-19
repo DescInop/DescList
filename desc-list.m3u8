@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/5c84ff73c115b30282adb589.png" ,Atualizado em 19/08/2024
+https://assets.stickpng.com/thumbs/5c84ff73c115b30282adb589.png
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Band" tvg-name="Band" tvg-logo="https://imgur.com/xYGjfh8.png" ,Band
+https://cdn-4.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" ,Globo RBS
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" ,Globo RJ
+https://new.embedflix.co/p2p/globorj/chunks.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Record" tvg-name="Record" tvg-logo="https://imgur.com/lyQ1v9M.png" ,Record SP
+https://cdn-4.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" ,SBT
+https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/80b7acd5-bf57-49aa-93d7-c1e82fb9320e/2.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="https://i.imgur.com/9dGaIdY.png" ,TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="CazéTV" tvg-id="CazéTV" tvg-name="CazéTV" tvg-logo="https://imgur.com/m2OuD7o.png" ,CazéTV
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 group-title="CazéTV" tvg-id="CazéTV" tvg-name="CazéTV" tvg-logo="https://imgur.com/m2OuD7o.png" ,CazéTV Jogo 1
+https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
+#EXTINF:-1 group-title="CazéTV" tvg-id="CazéTV" tvg-name="CazéTV" tvg-logo="https://imgur.com/m2OuD7o.png" ,CazéTV Jogo 2
+https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
+#EXTINF:-1 group-title="CazéTV" tvg-id="CazéTV" tvg-name="CazéTV" tvg-logo="https://imgur.com/m2OuD7o.png" ,CazéTV Jogo 3
+https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
+#EXTINF:-1 group-title="CazéTV" tvg-id="CazéTV" tvg-name="CazéTV" tvg-logo="https://imgur.com/m2OuD7o.png" ,CazéTV Jogo 4
+https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
+#EXTINF:-1 group-title="CazéTV" tvg-id="CazéTV" tvg-name="CazéTV" tvg-logo="https://imgur.com/m2OuD7o.png" ,CazéTV Jogo 5
+https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" ,Discovery Channel
+https://new.embedflix.co/p2p/discoverych/chunks.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" ,ESPN 1
+https://cdn-4.nxplay.com.br/ESPN/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" ,ESPN 2
+https://cdn-4.nxplay.com.br/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" ,ESPN 3
+https://cdn-4.nxplay.com.br/ESPN_3/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" ,ESPN 4
+https://cdn-4.nxplay.com.br/ESPN_4/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" ,ESPN 5
+https://new.embedflix.co/p2p/espnextra/chunks.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" ,ESPN 6
+https://cdn-4.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-id="Band Sports" tvg-name="Band Sports" tvg-logo="https://imgur.com/HyeeIkG.png" ,Band Sports
+https://stream.embedflix.co/p2p/bandsport/chunks.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-id="Canal Combate" tvg-name="Canal Combate" tvg-logo="https://imgur.com/HIiZUQN.png" ,Canal Combate
+https://stream.embedflix.co/p2p/combate/chunks.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-id="Nosso Futebol" tvg-name="Nosso Futebol" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/Logotipo_nosso_futebol.png" ,GE Fast
+https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-id="UFC Fightpass" tvg-name="UFC Fightpass" tvg-logo="https://imgur.com/AvV9rW9.png" ,UFC Fightpass
+https://new.embedflix.co/p2p/ufcfight/chunks.m3u8
+#EXTINF:-1 group-title="HBO" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" ,HBO 1
+https://new.embedflix.co/p2p/hbo/chunks.m3u8
+#EXTINF:-1 group-title="HBO" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/smM7mYc.png" ,HBO 2
+https://new.embedflix.co/p2p/hbo2/chunks.m3u8
+#EXTINF:-1 group-title="HBO" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/2dINPFY.png" ,HBO Family
+https://new.embedflix.co/p2p/hbofamily/chunks.m3u8
+#EXTINF:-1 group-title="HBO" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" ,HBO Plus
+https://new.embedflix.co/p2p/hboplus/chunks.m3u8
+#EXTINF:-1 group-title="HBO" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/OzINH3M.png" ,HBO Pop
+https://new.embedflix.co/p2p/hbopop/chunks.m3u8
+#EXTINF:-1 group-title="HBO" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.imgur.com/Mkxd6PK.png" ,HBO Xtreme
+https://new.embedflix.co/p2p/hboextreme/chunks.m3u8
+#EXTINF:-1 group-title="Notícias" tvg-id="Band News" tvg-name="Band News" tvg-logo="https://imgur.com/jCZzNjF.png" ,Band News
+https://new.embedflix.co/p2p/bandnews/chunks.m3u8
+#EXTINF:-1 group-title="Notícias" tvg-id="CNN Brasil" tvg-name="CNN Brasil" tvg-logo="https://imgur.com/4dfmnBs.png" ,CNN Brasil
+https://new.embedflix.co/p2p/cnnbr/chunks.m3u8
+#EXTINF:-1 group-title="Notícias" tvg-id="Globo News" tvg-name="Globo News" tvg-logo="https://imgur.com/Wu4ykxo.png" ,Globo News
+https://new.embedflix.co/p2p/globonews/chunks.m3u8
+#EXTINF:-1 group-title="Notícias" tvg-id="Jovem Pan" tvg-name="Jovem Pan" tvg-logo="https://i.imgur.com/MWGAfvV.png" ,Jovem Pan
+https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/cb543d177a6c678c9ad43e6fd5ef49a4f9791fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c060017d360439cd1dd56c49c1da71b813727616749386b262c9ee475ae98710282ab27a1e50fe0f05a67c1177dfe60247d46ce0375551ac5a6d0f33dbee5fa96b57918758967e28defbc030307a5842c90859ecf259f2ffb25a468b0e03802669adf5a804b368fba67ea9b6a619cf09df2ad33ca7a093faf38e564ba3499434ed211d50625c94856b9aca5ccca9f2f4862e105a2a2e5af4b79cbe6f3083405159ba83a322d44d72bceb17b21a468909970fa3228b65ae0ce7e541e09eaed3082653c19d0e3775f5b7e7e2ff441af3f9ba3f8f83d30520c9025739374478685a199df8d91d87c25aa5b72cba84680834cfaba8faf79daee0aa844690248592bac87d0a796a0a06894ab1da43ef698b36f9955316554312f9c115dcd08d05707059dcd10e8d5d4bf09bac86dc053485324b0bb830880b542cea3d7e79e322e1d56d3ddc685af74657926f3c8e46f3af3fb5f0a983280ff5888913852a85d227ddec0ba5613d237395fb3e5a43436590a3263a3977c74af3c08886530c13e7e3c2eeca316c5f2176b26d6c340fa6fdb1cea9953cd9731c9f37b3cb49ccd0dd/48/1920x1080_5702400/index.m3u8
+#EXTINF:-1 group-title="Notícias" tvg-id="Record News" tvg-name="Record News" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" ,Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https:%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
+#EXTINF:-1 group-title="Paramount Plus" tvg-id="Paramount" tvg-name="Paramount" tvg-logo="https://imgur.com/GPcKZ2i.png" ,Paramount 1
+https://abc.embedmax.site/paraMountMais1/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Paramount Plus" tvg-id="Paramount" tvg-name="Paramount" tvg-logo="https://imgur.com/GPcKZ2i.png" ,Paramount 2
+https://abc.embedmax.site/Paramountmais2/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Paramount Plus" tvg-id="Paramoun" tvg-name="Paramoun" tvg-logo="https://imgur.com/GPcKZ2i.png" ,Paramount 3
+https://abc.embedmax.site/paramountmais3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Paramount Plus" tvg-id="Paramount" tvg-name="Paramount" tvg-logo="https://imgur.com/GPcKZ2i.png" ,Paramount 4
+https://abc.embedmax.site/paramountmais4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 1
+https://new.embedflix.co/p2p/prfc1/chunks.m3u8
+#EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 2
+https://new.embedflix.co/p2p/premier2/chunks.m3u8
+#EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 3
+https://stream.embedflix.co/p2p/premier3/chunks.m3u8
+#EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 4
+https://stream.embedflix.co/p2p/premier4/chunks.m3u8
+#EXTINF:-1 group-title="Privado (+18)" tvg-id="Playboy Tv" tvg-name="Playboy Tv" tvg-logo="https://toppng.com/uploads/preview/open-playboy-tv-logo-11563247298s3fcukcvna.png" ,Playboy Tv
+https://new.embedflix.co/p2p/playboy/chunks.m3u8
+#EXTINF:-1 group-title="Privado (+18)" tvg-id="Porn Hub" tvg-name="Porn Hub" tvg-logo="https://w7.pngwing.com/pngs/74/255/png-transparent-pornhub-official-logo-logos-brands-in-colors-icon.png" ,Porn Hub
+https://new.embedflix.co/p2p/pornhub/playlist.m3u8
+#EXTINF:-1 group-title="Privado (+18)" tvg-id="Sex Treme" tvg-name="Sex Treme" tvg-logo="https://bot.midiasimples.com.br/storage/284/sextreme.png" ,Sex Treme
+https://new.embedflix.co/p2p/sextreme/chunks.m3u8
+#EXTINF:-1 group-title="Privado (+18)" tvg-id="Sexy Hot" tvg-name="Sexy Hot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/SexyHot_RGB_Vermelha2.png" ,Sexy Hot
+https://new.embedflix.co/p2p/sexyhot/chunks.m3u8
+#EXTINF:-1 group-title="SporTV" tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" ,SporTV 1
+https://new.embedflix.co/p2p/sportv/chunks.m3u8
+#EXTINF:-1 group-title="SporTV" tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" ,SporTV 2
+https://new.embedflix.co/p2p/sportv2/chunks.m3u8
+#EXTINF:-1 group-title="SporTV" tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" ,SporTV 3
+https://new.embedflix.co/p2p/sportv3/chunks.m3u8
+#EXTINF:-1 group-title="Telecine" tvg-id="Telecine" tvg-name="Telecine" tvg-logo="https://imgur.com/faV3eZx.png" ,Telecine Action
+https://new.embedflix.co/p2p/tlcaction/chunks.m3u8
+#EXTINF:-1 group-title="Telecine" tvg-id="Telecine" tvg-name="Telecine" tvg-logo="https://i.imgur.com/Tavo4Zl.png" ,Telecine Cult
+https://new.embedflix.co/p2p/telecinecult/chunks.m3u8
+#EXTINF:-1 group-title="Telecine" tvg-id="Telecine" tvg-name="Telecine" tvg-logo="https://i.imgur.com/eo6Js8D.png" ,Telecine Fun
+https://new.embedflix.co/p2p/tlcfun/chunks.m3u8
+#EXTINF:-1 group-title="Telecine" tvg-id="Telecine" tvg-name="Telecine" tvg-logo="https://imgur.com/cPTZMTo.png" ,Telecine Pipoca
+https://new.embedflix.co/p2p/tlcpipoca/chunks.m3u8
+#EXTINF:-1 group-title="Telecine" tvg-id="Telecine" tvg-name="Telecine" tvg-logo="https://imgur.com/SGr7sdL.png" ,Telecine Premium
+https://new.embedflix.co/p2p/tlcpremium/chunks.m3u8
+#EXTINF:-1 group-title="Telecine" tvg-id="Telecine" tvg-name="Telecine" tvg-logo="https://i.imgur.com/viw732w.png" ,Telecine Touch
+https://new.embedflix.co/p2p/telecinetouch/chunks.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/5c84ff73c115b30282adb589.png" ,Atualizado em 19/08/2024
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/5c84ff73c115b30282adb589.png" ,Atualizado em 20/08/2024
 https://assets.stickpng.com/thumbs/5c84ff73c115b30282adb589.png
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Band" tvg-name="Band" tvg-logo="https://imgur.com/xYGjfh8.png" ,Band
 https://cdn-4.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
@@ -9,6 +9,8 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
 https://new.embedflix.co/p2p/globorj/chunks.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Record" tvg-name="Record" tvg-logo="https://imgur.com/lyQ1v9M.png" ,Record SP
 https://cdn-4.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais Abertos" tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="https://w1.pngwing.com/pngs/589/704/png-transparent-tv-redetv-logo-tv-cultura-television-show-rede-globo-band-novo-tempo.png" ,Rede TV
+https://new.embedflix.co/p2p/redetv/chunks.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" ,SBT
 https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/80b7acd5-bf57-49aa-93d7-c1e82fb9320e/2.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="https://i.imgur.com/9dGaIdY.png" ,TV Brasil
@@ -27,6 +29,20 @@ https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
 https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" ,Discovery Channel
 https://new.embedflix.co/p2p/discoverych/chunks.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" ,Discovery ID
+https://new.embedflix.co/p2p/discoveryinvesticacao/chunks.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" ,Discovery Kids
+https://cdn-4.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" ,Discovery NX
+https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" ,Discovery Science
+https://cdn-4.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" ,Discovery Theater
+https://cdn-4.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" ,Discovery Turbo
+https://new.embedflix.co/p2p/discoveryturbo/chunks.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" ,Discovery World
+https://cdn-4.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 #EXTINF:-1 group-title="ESPN" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" ,ESPN 1
 https://cdn-4.nxplay.com.br/ESPN/index.m3u8
 #EXTINF:-1 group-title="ESPN" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" ,ESPN 2
@@ -70,7 +86,7 @@ https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-ad
 #EXTINF:-1 group-title="Notícias" tvg-id="Record News" tvg-name="Record News" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" ,Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https:%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
 #EXTINF:-1 group-title="Paramount Plus" tvg-id="Paramount" tvg-name="Paramount" tvg-logo="https://imgur.com/GPcKZ2i.png" ,Paramount 1
-https://abc.embedmax.site/paraMountMais1/tracks-v1/mono.m3u8
+http://186.226.215.132:80/carlos123/carlos123/501
 #EXTINF:-1 group-title="Paramount Plus" tvg-id="Paramount" tvg-name="Paramount" tvg-logo="https://imgur.com/GPcKZ2i.png" ,Paramount 2
 https://abc.embedmax.site/Paramountmais2/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="Paramount Plus" tvg-id="Paramoun" tvg-name="Paramoun" tvg-logo="https://imgur.com/GPcKZ2i.png" ,Paramount 3
@@ -85,10 +101,16 @@ https://new.embedflix.co/p2p/premier2/chunks.m3u8
 https://stream.embedflix.co/p2p/premier3/chunks.m3u8
 #EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 4
 https://stream.embedflix.co/p2p/premier4/chunks.m3u8
+#EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 5
+https://new.embedflix.co/p2p/premier5/chunks.m3u8
+#EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 6
+https://new.embedflix.co/p2p/premier6/chunks.m3u8
+#EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 7
+http://izcdn.vood.top:80/hls/522_.m3u8
+#EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 8
+https://new.embedflix.co/p2p/premier8/chunks.m3u8
 #EXTINF:-1 group-title="Privado (+18)" tvg-id="Playboy Tv" tvg-name="Playboy Tv" tvg-logo="https://toppng.com/uploads/preview/open-playboy-tv-logo-11563247298s3fcukcvna.png" ,Playboy Tv
 https://new.embedflix.co/p2p/playboy/chunks.m3u8
-#EXTINF:-1 group-title="Privado (+18)" tvg-id="Porn Hub" tvg-name="Porn Hub" tvg-logo="https://w7.pngwing.com/pngs/74/255/png-transparent-pornhub-official-logo-logos-brands-in-colors-icon.png" ,Porn Hub
-https://new.embedflix.co/p2p/pornhub/playlist.m3u8
 #EXTINF:-1 group-title="Privado (+18)" tvg-id="Sex Treme" tvg-name="Sex Treme" tvg-logo="https://bot.midiasimples.com.br/storage/284/sextreme.png" ,Sex Treme
 https://new.embedflix.co/p2p/sextreme/chunks.m3u8
 #EXTINF:-1 group-title="Privado (+18)" tvg-id="Sexy Hot" tvg-name="Sexy Hot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/SexyHot_RGB_Vermelha2.png" ,Sexy Hot
@@ -108,6 +130,6 @@ https://new.embedflix.co/p2p/tlcfun/chunks.m3u8
 #EXTINF:-1 group-title="Telecine" tvg-id="Telecine" tvg-name="Telecine" tvg-logo="https://imgur.com/cPTZMTo.png" ,Telecine Pipoca
 https://new.embedflix.co/p2p/tlcpipoca/chunks.m3u8
 #EXTINF:-1 group-title="Telecine" tvg-id="Telecine" tvg-name="Telecine" tvg-logo="https://imgur.com/SGr7sdL.png" ,Telecine Premium
-https://new.embedflix.co/p2p/tlcpremium/chunks.m3u8
+http://fzcdn.vood.top:80/hls/633_.m3u8
 #EXTINF:-1 group-title="Telecine" tvg-id="Telecine" tvg-name="Telecine" tvg-logo="https://i.imgur.com/viw732w.png" ,Telecine Touch
 https://new.embedflix.co/p2p/telecinetouch/chunks.m3u8
